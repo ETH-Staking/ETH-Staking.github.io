@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /eth-staking/
+Sitemap: https://eth-staking.github.io/sitemap.xml
